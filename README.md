@@ -24,7 +24,7 @@ Avant de commencer, choisissez une **catégorie** de questions :
   - 📘 Grammaire
   - 📚 Vocabulaire
   - 🔍 Compréhension
-- **Prévisualisation des Questions** : Prévisualisez les questions avant de les publier pour vérifier leur affichage final.
+- **Prévisualisation des Questions** : Prévisualisez les questions avant de les publier pour vérifier leur affichage final .
 
 ### 📊 Suivi des Résultats des Utilisateurs
 - **Tableau de Bord des Scores** : Visualisez les scores des utilisateurs pour suivre leur progression.
@@ -53,4 +53,4 @@ Cette application propose :
 - Des rapports PDF complets et personnalisés
 - Des statistiques pour une gestion de la progression
 
-Explorez, apprenez et améliorez vos compétences tout en suivant vos progrès ! 🎓
+
