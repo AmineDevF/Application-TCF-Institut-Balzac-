@@ -1,4 +1,4 @@
-# 🎉 Application TCF Institut Balzac - Gestion Administrateur et Back-Office
+# 🎉 Application TCF Institut Balzac - Gestion Administrateur 
 
 ## 👤 Utilisateur
 
